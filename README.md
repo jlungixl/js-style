@@ -1,4 +1,4 @@
-# Airbnb JavaScript Style Guide() {
+# IXL Learning ES2015+ JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
